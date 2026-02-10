@@ -36,9 +36,9 @@ A comprehensive bash script to automate the setup of essential services and tool
 
 1. Download the script:
 ```bash
-wget https://raw.githubusercontent.com/yourusername/ubuntu-server/main/post-install.sh
+wget https://raw.githubusercontent.com/soltros/ubuntuserver-postinstaller/main/post-install.sh
 # or
-curl -O https://raw.githubusercontent.com/yourusername/ubuntu-server/main/post-install.sh
+curl -O https://raw.githubusercontent.com/soltros/ubuntuserver-postinstaller/main/post-install.sh
 ```
 
 2. Make it executable:
